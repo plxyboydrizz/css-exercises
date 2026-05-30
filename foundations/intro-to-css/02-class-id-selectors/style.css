@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+
+.odd {
+  background-color: rgb(251, 180, 198);
+  font: Verdana "DejaVu Sans" sans-serif;
+}
+.adjust {
+  font-size: 24px;
+}
+
+ #id{
+  color: rgb(47, 10, 231);
+  font-size: 36px;
+}
+.id2 {
+  background-color: rgb(200, 255, 149);
+  font-size: 24px;
+}
+
